@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nehasrivalli/bfhl/static/css/main.790443dd.css",
+    "main.js": "/nehasrivalli/bfhl/static/js/main.b81ac5ac.js",
+    "static/js/453.c9a9d411.chunk.js": "/nehasrivalli/bfhl/static/js/453.c9a9d411.chunk.js",
+    "index.html": "/nehasrivalli/bfhl/index.html",
+    "main.790443dd.css.map": "/nehasrivalli/bfhl/static/css/main.790443dd.css.map",
+    "main.b81ac5ac.js.map": "/nehasrivalli/bfhl/static/js/main.b81ac5ac.js.map",
+    "453.c9a9d411.chunk.js.map": "/nehasrivalli/bfhl/static/js/453.c9a9d411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790443dd.css",
+    "static/js/main.b81ac5ac.js"
+  ]
+}
